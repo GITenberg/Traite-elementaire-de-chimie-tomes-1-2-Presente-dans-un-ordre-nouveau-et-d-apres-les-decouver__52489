@@ -1,0 +1,30 @@
+_repo: Traite-elementaire-de-chimie-tomes-1-2-Presente-dans-un-ordre-nouveau-et-d-apres-les-decouver__52489
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lavoisier, Antoine Laurent
+    aliases:
+    - Lavoisier, A. L. (Antoine Laurent)
+    - Lavoisier, Antoine de
+    birthdate: 1743
+    deathdate: 1794
+    gutenberg_agent_id: '34823'
+    url: http://www.gutenberg.org/2009/agents/34823
+    wikipedia: http://en.wikipedia.org/wiki/Antoine_Lavoisier
+description: ''
+gutenberg_bookshelf: FR Sciences et Techniques
+gutenberg_issued: '2016-07-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52489'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QD'
+- !lcsh 'Chemistry'
+- GITenberg
+title: "Traité élémentaire de chimie, tomes 1 & 2\r\nPrésenté dans un ordre nouveau\
+  \ et d'après les découvertes modernes; avec Figures"
+url: http://www.gutenberg.org/ebooks/52489
